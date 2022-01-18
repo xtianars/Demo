@@ -4,4 +4,4 @@ This is a simple readme file
 
 ## Heading 2
 
-something going on
+Updates made on master on GitHub before rebase
