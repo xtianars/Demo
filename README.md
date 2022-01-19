@@ -4,5 +4,8 @@ This is a simple readme file
 
 ## Heading 2
 
-Updates made on master on GitHub before rebase
-second try modify before rebase, on GitHub
+## Repo Purpose
+
+This will be a change that conflicts
+with whatever is on the remote side.
+This was edited locally.
